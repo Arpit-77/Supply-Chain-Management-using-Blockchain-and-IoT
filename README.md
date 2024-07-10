@@ -9,7 +9,15 @@ Blockchain and IoT can elevate e-commerce supply chains by ensuring transparent,
 We have presented an Ethereum-based blockchain and Internet of Things e-commerce platform in this paper. We describe in detail how to put in place a system that stores a product’s journey’s details on an immutable distributed ledger. This allows for secure tracing of a product’s origin. The prototype of the system is deployed and tested on Hardhat testing framework. Traditional databases and cloud storages have been replaced by blockchain and IPFS. IPFS is used as the decentralized and distributed storage layer, facilitating the secure and efficient storage of credentials. 
 
 Furthermore, the results of our experiments and security and scalability analyses demonstrate the viability of our suggested model.
+
 ![image](https://github.com/Arpit-77/Supply-Chain-Management-using-Blockchain-and-IoT/assets/139072905/cb896507-eba9-4259-b4a6-b188fcb97ae2)
+
+
+![image](https://github.com/Arpit-77/Supply-Chain-Management-using-Blockchain-and-IoT/assets/139072905/206e70ed-15e7-41bd-a988-0791a782a50d)
+
+
+![image](https://github.com/Arpit-77/Supply-Chain-Management-using-Blockchain-and-IoT/assets/139072905/b8f3407e-061e-4b03-a85e-058300747846)
+
 
 
 ____________________
@@ -26,3 +34,7 @@ This combination securely records and traces product journey details on a decent
 Additionally, leveraging IPFS as a decentralized storage layer further enhances security and efficiency. 
 Customers interact with a user-friendly platform to browse products, place orders, and track their purchase history, all seamlessly integrated with blockchain technology. 
 This holistic approach empowers informed decision-making, fosters trust among consumers, and streamlines supply chain operations, creating a more transparent and accountable e-commerce ecosystem.
+
+
+![image](https://github.com/Arpit-77/Supply-Chain-Management-using-Blockchain-and-IoT/assets/139072905/b01cae1f-833c-4236-b0c8-ff88e1f53ee6)
+
